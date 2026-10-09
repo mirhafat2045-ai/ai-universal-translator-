@@ -1,0 +1,6 @@
+{
+  "name": "Universal AI Translator",
+  "description": "AI-powered universal translation app with voice, OCR, context styles, history, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
